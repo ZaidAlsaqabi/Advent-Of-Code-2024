@@ -16,7 +16,7 @@ Each day's solution is organized in its own directory with the following structu
 
 ## 🌟 Progress (December 2024)
 
-| Day | Challenge | Part 1 Rank Score (Less = More points) | Stars | Part 2 Rank Score (Less = More points)|
+| Day | Part 1 Rank Score (Less = More points) | Solutions | Stars | Part 2 Rank Score (Less = More points)|
 |-----|-----------|----------|--------|-------------|
 | [Day 1](https://adventofcode.com/2024/day/1) | 175713 | [Solution](./Day01/) | ⭐⭐ | 164082 |
 | [Day 2](https://adventofcode.com/2024/day/2) | 138109 | [Solution](./Day02/) | ⭐⭐ | 109645 |
