@@ -18,15 +18,15 @@ Each day's solution is organized in its own directory with the following structu
 
 | Day | Challenge | Part 1 Rank Score (Less = More points) | Stars | Part 2 Rank Score (Less = More points)|
 |-----|-----------|----------|--------|-------------|
-| [Day 1](https://adventofcode.com/2024/day/1) | 175713 | [Solution](./Day1/) | ⭐⭐ | 164082 |
-| [Day 2](https://adventofcode.com/2024/day/2) | 138109 | [Solution](./Day2/) | ⭐⭐ | 109645 |
-| [Day 3](https://adventofcode.com/2024/day/3) | 99539 | [Solution](./Day3/) | ⭐⭐ | 88340 |
-| [Day 4](https://adventofcode.com/2024/day/4) | 10440 | [Solution](./Day4/) | ⭐⭐ | 10091 |
-| [Day 5](https://adventofcode.com/2024/day/5) | 363 | [Solution](./Day5/) | ⭐⭐ | 5821 |
-| [Day 6](https://adventofcode.com/2024/day/6) | 1714 | [Solution](./Day6/) | ⭐⭐ | 428 |
-| [Day 7](https://adventofcode.com/2024/day/7) | 54 | [Solution](./Day7/) | ⭐⭐ | 72 |
-| [Day 8](https://adventofcode.com/2024/day/8) | 5953 | [Solution](./Day8/) | ⭐⭐ | 4409 |
-| [Day 9](https://adventofcode.com/2024/day/9) | 33 | [Solution](./Day9/) | ⭐⭐ | 21 |
+| [Day 1](https://adventofcode.com/2024/day/1) | 175713 | [Solution](./Day01/) | ⭐⭐ | 164082 |
+| [Day 2](https://adventofcode.com/2024/day/2) | 138109 | [Solution](./Day02/) | ⭐⭐ | 109645 |
+| [Day 3](https://adventofcode.com/2024/day/3) | 99539 | [Solution](./Day03/) | ⭐⭐ | 88340 |
+| [Day 4](https://adventofcode.com/2024/day/4) | 10440 | [Solution](./Day04/) | ⭐⭐ | 10091 |
+| [Day 5](https://adventofcode.com/2024/day/5) | 363 | [Solution](./Day05/) | ⭐⭐ | 5821 |
+| [Day 6](https://adventofcode.com/2024/day/6) | 1714 | [Solution](./Day06/) | ⭐⭐ | 428 |
+| [Day 7](https://adventofcode.com/2024/day/7) | 54 | [Solution](./Day07/) | ⭐⭐ | 72 |
+| [Day 8](https://adventofcode.com/2024/day/8) | 5953 | [Solution](./Day08/) | ⭐⭐ | 4409 |
+| [Day 9](https://adventofcode.com/2024/day/9) | 33 | [Solution](./Day09/) | ⭐⭐ | 21 |
 | [Day 10](https://adventofcode.com/2024/day/10) | 43 | [Solution](./Day10/) | ⭐⭐ | 60  |
 | [Day 11](https://adventofcode.com/2024/day/11) | 207 | [Solution](./Day11/) | ⭐⭐ | 5675 |
 | [Day 12](https://adventofcode.com/2024/day/12) | 325 | [Solution](./Day12/) | ⭐⭐ | 1051 |
