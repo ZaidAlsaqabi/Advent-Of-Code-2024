@@ -1,6 +1,6 @@
 # 🎄 Advent of Code 2024 - C++ Solutions
 
-Welcome to my Advent of Code 2024 solutions repository! This year, I'm taking on the challenge using C++ to sharpen my programming skills and compete globally. Advent of Code is a series of daily programming puzzles that start on December 1st and continue until December 25th this year, I have achived in some days high global ranking in the leaderboard and on private UWE leaderboard rank 1 in ranking and globally have achived 548 points which slightly behide the top 100 during endavour of solving the puzzles♟.
+Welcome to my Advent of Code 2024 solutions repository! Last year, I took on the challenge using C++ to sharpen my programming skills and compete globally. Advent of Code is a series of daily programming puzzles that start on December 1st and continue until December 25th this year, I have achived in some days high global ranking in the leaderboard and on private UWE leaderboard rank 1 in ranking and globally have achived 548 points which slightly behide the top 100 during endavour of solving the puzzles♟.
 
 ## 🎯 Goals
 - Improve C++ proficiency
